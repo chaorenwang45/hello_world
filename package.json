@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Node.js 前端页面示例：启动后浏览器访问 http://localhost:3000 可看到 HELLO AI CODING",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "wangcheng",
+  "license": "MIT"
+}
